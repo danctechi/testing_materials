@@ -11,3 +11,4 @@ This is a small github project to learn more about software testing and automati
 * [Guru99](https://www.guru99.com) - Here you learn by practice. We make tons of efforts to take boredom out of learning and make education a fun experience.
 * [Software Testing Material](https://www.softwaretestingmaterial.com/)
 * [ToolsQA](https://www.toolsqa.com/)
+* [SoftwareTestingHelp](https://www.softwaretestinghelp.com/)
